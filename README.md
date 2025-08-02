@@ -1,4 +1,4 @@
-# Precision Agriculture using Machine Learning and IOT
+# IoT Enabled Intelligent System for Soil Nutrients Monitoring and Crop Recommendation using Machine Learning
 
 ## DATA SOURCE 📊
 - [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
