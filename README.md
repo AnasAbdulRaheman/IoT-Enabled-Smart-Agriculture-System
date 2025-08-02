@@ -29,7 +29,8 @@ Farming is one of the major sectors that influences a country’s economic growt
 
 
 ## Home Page of our WebApplication
-![Home Page of our WebApplication](https://github.com/atharval1/precision-agriculture-using-machine-learning/blob/main/Project-docs/App-snaps/Home.png)
+![Home Page of our WebApplication]
+<img width="449" height="563" alt="home page" src="https://github.com/user-attachments/assets/6722caae-1984-4cde-836d-d5122258c530" />
 
 
 ## How to use 💻
